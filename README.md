@@ -1,6 +1,6 @@
-# Path to 88 · updates
+# Onward · updates
 
-Signed update files for the Path to 88 app.
+Signed update files for the Onward app.
 
 - `latest.json` names the newest version, its download address, its SHA-256 fingerprint and a signature.
 - The app only installs an update when that signature matches the key built into it, and the
