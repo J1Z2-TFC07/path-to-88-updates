@@ -1,0 +1,52 @@
+{
+  "id": "faith-lutheran",
+  "name": "Faith Lutheran College",
+  "guide": "Faith Lutheran College 2027 Curriculum Handbook (version 24/07/2026)",
+  "source": "https://www.faith.sa.edu.au/curriculum/senior-school-year-10-to-year-12",
+  "note": "Worded as the handbook's Summary of Subjects (pages 11-13). Lists ('Dance, Drama, Music') and A/B options are split into separate subjects. Two typos in the summary are corrected to the handbook's other spelling: 'Societies and Culture' -> 'Society and Culture', 'Agricultural Productions' -> 'Agricultural Production'. Year 10 Tute Time is compulsory but missing from the summary, so it is added from the Year 10 subject selection table.",
+  "years": {
+    "7": [
+      "Language and Literature", "Mathematics", "Science", "Health and Physical Education", "Learning in Faith Education - LIFE",
+      "Language Acquisition - German", "Language Acquisition - Japanese", "Business and Economics", "Civics and Citizenship", "Geography", "History",
+      "Dance", "Drama", "Music", "Visual Arts", "Design and Technology", "Food and Hospitality", "Agriculture", "Interdisciplinary Unit"
+    ],
+    "8": [
+      "Language and Literature", "Mathematics", "Science", "Health and Physical Education", "Learning in Faith Education - LIFE",
+      "Language Acquisition - German", "Language Acquisition - Japanese", "Business and Economics", "Civics and Citizenship", "Geography", "History",
+      "Dance", "Drama", "Music", "Visual Arts", "Design and Technology", "Digital Technology", "Food and Hospitality", "Agriculture", "Interdisciplinary Unit"
+    ],
+    "9": [
+      "Language and Literature", "Mathematics", "Science", "Health and Physical Education", "The Rite Journey",
+      "Language Acquisition - German", "Language Acquisition - Japanese", "Business and Economics", "Civics and Citizenship", "Geography", "History",
+      "Dance", "Drama", "Music", "Visual Arts", "Fast Fashion", "Design and Technology", "Food and Hospitality", "Agriculture",
+      "Interdisciplinary Unit", "The Community Project"
+    ],
+    "10": [
+      "English", "Pre-Mathematical Methods and Pre-General Mathematics", "Pre-Essential Mathematics", "Science", "History", "Health and Physical Education",
+      "Learning in Faith Education - LIFE", "Exploring Identities and Futures - EIF", "Tute Time",
+      "Agriculture", "Dance", "Drama", "Music", "Visual Arts - Art", "Visual Arts - Design", "Food and Hospitality", "History - Ancient Studies", "Geography",
+      "Society and Culture", "German", "Japanese", "Design and Technology - Electronics", "Design and Technology - Fibre to Fabulous - Textiles",
+      "Design and Technology - Metal", "Design and Technology - Wood"
+    ],
+    "11": [
+      "English", "Pre-Literary Studies", "Essential English", "Mathematical Methods A", "Mathematical Methods B", "Specialist Mathematics D",
+      "General Mathematics A", "General Mathematics B", "Essential Mathematics A", "Essential Mathematics B",
+      "Activating Identities and Futures - AIF", "Agriculture", "Dance", "Drama", "Music Advanced", "Music Experience", "Visual Arts - Art", "Visual Arts - Design",
+      "Food and Hospitality", "Outdoor Education", "Physical Education", "Health & Wellbeing", "Accounting", "Business Innovation", "Child Studies",
+      "Information Processing and Publishing", "Legal Studies", "Modern History", "Society and Culture", "Tourism", "Workplace Practices", "German", "Japanese",
+      "Spiritualities, Religion and Meaning Learning in Faith Education - LIFE", "Certificate III Christian Ministry and Theology - Veta Morphus",
+      "Biology", "Chemistry", "Physics", "Psychology",
+      "Design, Technology and Engineering - Fashion", "Design, Technology and Engineering - Industry and Entrepreneurial Solutions",
+      "Design, Technology and Engineering - Material Solutions - Metal", "Design, Technology and Engineering - Material Solutions - Wood"
+    ],
+    "12": [
+      "English", "English Literary Studies", "Essential English", "Mathematical Methods", "Specialist Mathematics", "General Mathematics", "Essential Mathematics",
+      "Agricultural Production", "Agricultural Systems", "Dance", "Drama", "Music Exploration", "Music Performance - Ensemble", "Music Performance - Solo", "Music Studies",
+      "Visual Arts - Art", "Visual Arts - Design", "Certificate III Fitness", "Outdoor Education", "Physical Education", "Food and Hospitality",
+      "Accounting", "Business Innovation", "Child Studies", "Information Processing and Publishing", "Legal Studies", "Modern History", "Society and Culture",
+      "Tourism", "Workplace Practices", "German", "Japanese", "Biology", "Chemistry", "Physics", "Psychology",
+      "Design, Technology and Engineering - Fashion", "Design, Technology and Engineering - Industry and Entrepreneurial Solutions",
+      "Design, Technology and Engineering - Material Solutions - Metal / Wood"
+    ]
+  }
+}
